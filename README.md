@@ -1,30 +1,27 @@
-# 🛍️ Online Store
+# 🛒 My Website - Shopping Site
 
-Welcome to the **Online Store** – a responsive, modern landing page for showcasing products, built with HTML, CSS, and Bootstrap 5.
+## 📌 Description
 
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Credits](#credits)
+**My Website** is a simple and responsive shopping site that allows users to browse products, add items to a cart, and simulate checkout. This project is a front-end web application built using HTML, CSS, and JavaScript — ideal for learning e-commerce basics, DOM manipulation, and responsive design.
 
 ---
 
-## 📌 Overview
+## 📖 Table of Contents
 
-This is a simple online store homepage that displays featured products using a responsive Bootstrap layout. It's built for demonstration purposes and can be extended with shopping cart functionality, databases, or server-side integrations.
+- [Description](#-description)
+- [Table of Contents](#-table-of-contents)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Screenshots](#-screenshots)
+- [Credits](#-credits)
 
 ---
 
-## 💻 Installation
+## 💾 Installation
 
-To run this project locally:
+You do **not** need any installations if you're running a static site. Simply follow the steps below:
 
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/bradleysdk/my-website.git
+   git clone https://github.com/bradleydk/my-website.git
+   cd my-website
